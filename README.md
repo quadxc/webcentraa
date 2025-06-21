@@ -89,3 +89,4 @@ Update `mta-script/meta.xml`:
 ## License
 
 © 2024 Centra Roleplay. All rights reserved.# centraroleplay
+# centraroleplay
