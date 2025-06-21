@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta>
+    <info author="expect" version="1.0" name="Centra Roleplay Web Integration" description="Web sitesi ile oyuncu sayısı entegrasyonu" />
+    
+    <script src="server.lua" type="server" />
+    
+    <settings>
+        <setting name="*website_url" value="https://centraroleplay.netlify.app" />
+        <setting name="*update_interval" value="30000" />
+    </settings>
+    
+    <min_mta_version server="1.5.9" />
+</meta>
